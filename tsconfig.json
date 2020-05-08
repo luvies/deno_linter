@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "lib": ["esnext"],
+    "sourceMap": true,
+    "strict": true,
+    "target": "esnext"
+  },
+  "include": ["working_project"]
+}
